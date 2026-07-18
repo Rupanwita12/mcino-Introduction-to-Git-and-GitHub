@@ -1,0 +1,5 @@
+theia@theia-u23052593:/home/project/mcino-Introduction-to-Git-and-GitHub$ git merge bug-fix-typo
+Updating 9a10fce..f6d430b
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
