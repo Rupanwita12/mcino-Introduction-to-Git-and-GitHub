@@ -1,0 +1,4 @@
+theia@theia-u23052593:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert a8a5cdc Revert "Fix typo in README footer"
+  bug-fix-typo   f6d430b Fix typo in README footer
+  main           f6d430b [origin/main: ahead 1] Fix typo in README footer
